@@ -1,4 +1,4 @@
-# cscio
+# cisco
 ## 配置
 使用vmware,ultraVNC, wireshark  
 使用pnet 虛擬機(記憶體跟核心 盡量越大越好)  
