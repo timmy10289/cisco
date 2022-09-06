@@ -30,4 +30,11 @@ https://drive.google.com/file/d/1CROJb8gxSrrKTYM3uLdnD1Xs9Va5qhT_/view?usp=shari
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model7.png)  
 有成功的話 去看 PNETlab 有沒有冒出來L2 L3   就安裝完成  
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model8.png)  
-halt -p
+## 正確關閉系統  
+在左邊側欄按Setup Nodes 再按stop All Nodes  
+![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop1.png)  
+在左邊側欄按 Destroy lab 再按destroy  
+![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop1.png)  
+最後在虛擬機那邊 輸入 halt -p  就可以正確關閉虛擬機  
+![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop1.png)  
+
