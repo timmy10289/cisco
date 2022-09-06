@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1CROJb8gxSrrKTYM3uLdnD1Xs9Va5qhT_/view?usp=shari
 在左邊側欄按Setup Nodes 再按stop All Nodes  
 ![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop1.png)  
 在左邊側欄按 Destroy lab 再按destroy  
-![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop1.png)  
+![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop2.png)  
 最後在虛擬機那邊 輸入 halt -p  就可以正確關閉虛擬機  
-![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop1.png)  
+![GITHIB](https://github.com/timmy10289/cisco/blob/main/pictures/stop3.png)  
 
