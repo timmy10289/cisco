@@ -12,4 +12,22 @@
 ![GITHUB](https://github.com/timmy10289/cscio/blob/main/pictures/setting3.png)  
 輸入在自己的瀏覽器，最後再自己註冊或登入就可以了
 ![GITHUB](https://github.com/timmy10289/cscio/blob/main/pictures/loginpnet.png)  
+## 元件下載
+裡面有需要的東西  
+https://drive.google.com/file/d/1CROJb8gxSrrKTYM3uLdnD1Xs9Va5qhT_/view?usp=sharing  
+## 下載鏡像  
+虛擬機登入後 打上 ifconfig | more  
+![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model2.png)  
+記一下自己的ip  
+![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model3.png)  
+去 putty 連線  (方便我們複製文字)  
+![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model4.png)  
+帳號 root 密碼 pnet  
+![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model5.png)  
+輸入 ishare search IOL  
+![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model6.png)  
+選擇你要的鏡像 要一個L2 一個L3  找到就輸入 ishare pull 鏡像的名字 (不是每個都能下載，所以要一個一個試)   
+![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model7.png)  
+有成功的話 去看 lab 有沒有冒出來   就安裝完成  
+![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/model8.png)  
 halt -p
