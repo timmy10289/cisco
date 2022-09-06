@@ -12,3 +12,4 @@
 ![GITHUB](https://github.com/timmy10289/cscio/blob/main/pictures/setting3.png)  
 輸入在自己的瀏覽器，最後再自己註冊或登入就可以了
 ![GITHUB](https://github.com/timmy10289/cscio/blob/main/pictures/loginpnet.png)  
+halt -p
