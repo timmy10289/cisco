@@ -7,5 +7,5 @@
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/w3.png)  
 如果你的wireshark 不是預設的位置 也要更改  我自己是裝在D槽  
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/w4.png)  
-去pnetlab 看看可不可以用
+去pnetlab 看看可不可以用  
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/w5.png)  
