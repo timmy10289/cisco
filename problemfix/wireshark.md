@@ -5,7 +5,7 @@
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/w2.png)  
 用筆記本開啟或是右鍵編輯  把密碼 改成 pnet  
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/w3.png)  
-如果你的wireshark 不是預設的位置 也要更改  我自己是裝在D槽  
+如果你的wireshark 不是預設的位置 也要更改  我自己是裝在D槽  更改完要儲存  
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/w4.png)  
-去pnetlab 看看可不可以用  
+去pnetlab 按 看看可不可以用  
 ![GITHUB](https://github.com/timmy10289/cisco/blob/main/pictures/w5.png)  
